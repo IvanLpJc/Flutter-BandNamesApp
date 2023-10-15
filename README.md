@@ -7,3 +7,7 @@ Application with realtime communication using Socket.IO to vote music bands.
 ## Section 1: Basic UI and create/delete mock
 
 <img src="https://github.com/IvanLpJc/Flutter-BandNamesApp/blob/main/demo.gif" width=200px> 
+
+## Section 2: NodeJs Socket Backend Initialization
+[Band Names Server](https://github.com/IvanLpJc/NodeJs-BandNamesServer/tree/v1.0.0)
+

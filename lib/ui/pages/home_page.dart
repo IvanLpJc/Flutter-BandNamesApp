@@ -63,7 +63,6 @@ class _HomePageState extends State<HomePage> {
           //   'Delete band',
           //   style: TextStyle(color: Colors.white),
           // ),
-
           child: Icon(Icons.delete_outlined),
         ),
       ),
