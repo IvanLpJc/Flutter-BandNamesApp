@@ -25,7 +25,8 @@ class SocketProvider with ChangeNotifier {
 
   void _initConfig() {
     _socket = io(
-        'http://192.168.1.176:3000',
+        // 'https://band-names-api.onrender.com', // Connection to the server hosted on render
+        'http://192.168.1.176:3000', // Connection to the server locally
         OptionBuilder()
             .setTransports(['websocket'])
             .enableAutoConnect() // optional
